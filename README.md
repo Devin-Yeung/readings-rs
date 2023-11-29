@@ -10,3 +10,11 @@
 - Rustlantis: Semantic fuzzing of the Rust compiler and interpreter
     - [thesis](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
     - [implementation](https://github.com/cbeuw/rustlantis)
+- Understanding and Evolving the Rust Programming Language
+    - [thesis website](https://research.ralfj.de/thesis.html)
+    - [screen-optimized version (PDF)](https://research.ralfj.de/phd/thesis-screen.pdf)
+    - [print-optimized version (PDF)](https://research.ralfj.de/phd/thesis-print.pdf)
+- RustBelt: Securing the Foundations of the Rust Programming Language
+    - [paper website](https://plv.mpi-sws.org/rustbelt/popl18/)
+    - [talk(recording)](https://www.youtube.com/watch?v=Cy9NUVaiYUg)
+    - [paper](https://plv.mpi-sws.org/rustbelt/popl18/paper.pdf)
