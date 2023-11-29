@@ -8,6 +8,7 @@
     - [OSDI'18 paper](https://www.usenix.org/system/files/osdi18-gjengset.pdf)
     - [OSDI'18 paper website](https://www.usenix.org/conference/osdi18/presentation/gjengset)
     - [PhD dissertation](https://jon.thesquareplanet.com/papers/phd-thesis.pdf)
+    - [implementation](https://github.com/mit-pdos/noria)
 - Tree Borrows: A new aliasing model for Rust
     - [blog post](https://perso.crans.org/vanille/treebor/)
     - [thesis](https://github.com/Vanille-N/tree-borrows)
