@@ -10,8 +10,10 @@
     - [PhD dissertation](https://jon.thesquareplanet.com/papers/phd-thesis.pdf)
     - [implementation](https://github.com/mit-pdos/noria)
 - Tree Borrows: A new aliasing model for Rust
-    - [blog post](https://perso.crans.org/vanille/treebor/)
+    - [Neven's blog post](https://perso.crans.org/vanille/treebor/)
+    - [Ralf Jung's blog post](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
     - [thesis](https://github.com/Vanille-N/tree-borrows)
+    - [talk(recording)](https://www.youtube.com/watch?v=zQ76zLXesxA)
 - Rustlantis: Semantic fuzzing of the Rust compiler and interpreter
     - [thesis](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
     - [implementation](https://github.com/cbeuw/rustlantis)
