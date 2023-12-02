@@ -33,3 +33,9 @@
     - [paper](https://plv.mpi-sws.org/rustbelt/popl18/paper.pdf)
 - RustBelt: Logical Foundations for the Future of Safe Systems Programming
     - [talk(recording)](https://www.youtube.com/watch?v=1GjSfyijaxo&t=1453s)
+
+
+# Thoughts
+
+- [Rust temporary lifetimes and "super let"](https://blog.m-ou.se/super-let/)
+- [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
