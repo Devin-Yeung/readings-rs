@@ -9,6 +9,12 @@
     - [OSDI'18 paper website](https://www.usenix.org/conference/osdi18/presentation/gjengset)
     - [PhD dissertation](https://jon.thesquareplanet.com/papers/phd-thesis.pdf)
     - [implementation](https://github.com/mit-pdos/noria)
+- Stacked Borrows: An Aliasing Model for Rust
+    - [paper website](https://plv.mpi-sws.org/rustbelt/stacked-borrows/)
+    - [paper](https://plv.mpi-sws.org/rustbelt/stacked-borrows/paper.pdf)
+    - [talk(recording)](https://www.youtube.com/watch?v=h9Fh4jRDGLo)
+    - [Stacked Borrows: An Aliasing Model for Rust (blog post)](https://www.ralfj.de/blog/2018/08/07/stacked-borrows.html)
+    - [Stacked Borrows Implemented (blog post)](https://www.ralfj.de/blog/2018/11/16/stacked-borrows-implementation.html)
 - Tree Borrows: A new aliasing model for Rust
     - [Neven's blog post](https://perso.crans.org/vanille/treebor/)
     - [Ralf Jung's blog post](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
