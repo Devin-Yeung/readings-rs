@@ -34,6 +34,9 @@
     - [Lambda-Rust(Coq Formalization)](https://gitlab.mpi-sws.org/iris/lambda-rust/tree/master)
 - RustBelt: Logical Foundations for the Future of Safe Systems Programming
     - [talk(recording)](https://www.youtube.com/watch?v=1GjSfyijaxo&t=1453s)
+- Iris: A Higher-Order Concurrent Separation Logic Framework, implemented and verified in the Coq proof assistant
+    - [project website](https://iris-project.org/)
+    - [Coq Formalization](https://gitlab.mpi-sws.org/iris/iris)
 
 
 # Thoughts
