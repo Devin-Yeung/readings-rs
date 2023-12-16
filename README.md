@@ -31,6 +31,7 @@
     - [paper website](https://plv.mpi-sws.org/rustbelt/popl18/)
     - [talk(recording)](https://www.youtube.com/watch?v=Cy9NUVaiYUg)
     - [paper](https://plv.mpi-sws.org/rustbelt/popl18/paper.pdf)
+    - [Lambda-Rust(Coq Formalization)](https://gitlab.mpi-sws.org/iris/lambda-rust/tree/master)
 - RustBelt: Logical Foundations for the Future of Safe Systems Programming
     - [talk(recording)](https://www.youtube.com/watch?v=1GjSfyijaxo&t=1453s)
 
